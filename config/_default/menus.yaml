@@ -1,0 +1,93 @@
+leftnav:
+- identifier: cf8df02a-2969-c473-cd17-c36c15b74aa4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e3812441-41e1-362f-0e0d-ca35682b402f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a84e1641-7aa1-4847-9e3f-87bf0ff9ed84
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 364fddf0-2a0b-c7c2-f81c-d1d8bb22e160
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: fcc24add-3c7b-c945-d80e-38ca9e52d5dc
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
+- identifier: c49086b5-3931-2739-2fad-42b6ea85a105
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 60
+- identifier: 703ba6ae-4396-ad87-aeac-cabcb57b7864
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
+- identifier: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  name: Video Lectures and Slides
+  pageRef: /pages/video-lectures-and-slides/
+  weight: 80
+- identifier: 4e09a619-60e1-e86a-14bf-d569cd4ed50e
+  name: Introduction and Course Overview
+  pageRef: /pages/video-lectures-and-slides/introduction-and-course-overview
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 10
+- identifier: 9d399c1f-0222-2a12-aa8e-d09c7a0a9243
+  name: Present Value Relations
+  pageRef: /pages/video-lectures-and-slides/present-value-relations
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 20
+- identifier: e36e4581-7f0e-fb9e-6930-35ba1f600e6d
+  name: Fixed-Income Securities
+  pageRef: /pages/video-lectures-and-slides/fixed-income-securities
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 30
+- identifier: 4b678424-fbf8-3dec-dfd0-618d83b98f9b
+  name: Equities
+  pageRef: /pages/video-lectures-and-slides/equities
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 40
+- identifier: a03a6fe8-0962-ea97-5478-117710065928
+  name: Forward and Futures Contracts
+  pageRef: /pages/video-lectures-and-slides/forward-and-futures-contracts
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 50
+- identifier: dcbca717-8172-2df9-5972-c7b3e9abe284
+  name: Options
+  pageRef: /pages/video-lectures-and-slides/options
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 60
+- identifier: f2e1c987-9ce7-c404-be3b-46f3dddf3d22
+  name: Risk and Return
+  pageRef: /pages/video-lectures-and-slides/risk-and-return
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 70
+- identifier: ea110339-3932-e4b9-3082-f9274ac55b6f
+  name: Portfolio Theory
+  pageRef: /pages/video-lectures-and-slides/portfolio-theory
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 80
+- identifier: b00cb686-93da-c544-3dd8-0c6ae861dd7c
+  name: The CAPM and APT
+  pageRef: /pages/video-lectures-and-slides/the-capm-and-apt
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 90
+- identifier: 329f045a-ce4b-7681-d743-90d050de0c19
+  name: Capital Budgeting
+  pageRef: /pages/video-lectures-and-slides/capital-budgeting
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 100
+- identifier: d5d9b06a-9f57-c97f-fb6c-7770f71a2f28
+  name: Efficient Markets
+  pageRef: /pages/video-lectures-and-slides/efficient-markets
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 110
+- identifier: 0157ef34-81f8-5729-370e-7d234fed9ec3
+  name: Course Summary
+  pageRef: /pages/video-lectures-and-slides/course-summary
+  parent: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
+  weight: 120
