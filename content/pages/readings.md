@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the course textbook, additional
   readings on finance, and a link to The Wall Street Journal website.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -31,6 +33,6 @@ Bodie, Zvi, Alex Kane, and Alan Marcus. _Investments_. 8th ed. New York, NY: McG
 
 Bodie, Kane, and Marcus focus exclusively on capital markets. They provide a more rigorous and thorough analysis of investments than Brealey, Myers, and Allen.
 
-{{% resource_link "ce8a8982-0549-42e6-9c92-cc8acf4ca365" "_The Wall Street Journal_" %}}
+[_The Wall Street Journal_](http://online.wsj.com/home-page)
 
 Often called the diary of financial markets, the Journal is still the leading business publication in the world and familiarity with its various columns, sections, and op-ed pieces is a must for any serious finance professional.

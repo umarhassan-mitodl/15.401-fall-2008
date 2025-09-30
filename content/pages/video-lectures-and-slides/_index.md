@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a list of topics covered in the course. Each topic
   links to a page containing the relevant video lectures and accompanying slides.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

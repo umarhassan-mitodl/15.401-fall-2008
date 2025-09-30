@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-401-finance-theory-i-fall-2008/926d30e69da55011bc7d512fb6de65e9_rMsu4v-UlkA.vtt
 file_size: 90080
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

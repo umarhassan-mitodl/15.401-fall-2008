@@ -3,6 +3,8 @@ content_type: page
 description: This page includes lecture slides and four video lectures on the valuation
   of coupon bonds with several examples and context involving yield curves, interest
   rate forecasts, and securities data.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

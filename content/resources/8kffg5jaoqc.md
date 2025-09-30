@@ -32,25 +32,25 @@ Andrew W. Lo tackles AI-assisted financial advising, healthcare, and the human c
 
 **Episode Notes**
 
-In this the first of two pilot episodes of Chalk Radio with {{% resource_link "fe8c642d-78d1-44a6-b43d-2436b135d02c" "**VIDEO**" %}}, Professor Andrew Lo, who teaches finance at MIT’s Sloan School of Management, knows that many people find financial matters perplexing and scary. Lots of us don’t have a good head for numbers, and besides, how can one get advice and make sound decisions when it’s taboo to discuss one’s finances at all? That’s where a financial advisor is useful–someone who understands the concepts, can crunch the numbers, and has a fiduciary responsibility to look out for your best interests. For many people, hiring a financial advisor might be a financial impossibility, but Prof. Lo and his colleagues are working to develop an AI financial advisor that not only gives ordinary people access to sound financial advice, but acts with real fiduciary responsibility. Large language models can’t do this yet, he says, but the technology is developing fast. Other topics he touches on in this episode include the outsized influence of finance on drug development and global decarbonization and the equally outsized influence of teachers on their students–he names many who changed his own life, from his third-grade teacher in Queens to his professors at college and graduate school.        
+In this the first of two pilot episodes of Chalk Radio with [**VIDEO**](https://www.youtube.com/watch?v=8kFFg5jAoQc), Professor Andrew Lo, who teaches finance at MIT’s Sloan School of Management, knows that many people find financial matters perplexing and scary. Lots of us don’t have a good head for numbers, and besides, how can one get advice and make sound decisions when it’s taboo to discuss one’s finances at all? That’s where a financial advisor is useful–someone who understands the concepts, can crunch the numbers, and has a fiduciary responsibility to look out for your best interests. For many people, hiring a financial advisor might be a financial impossibility, but Prof. Lo and his colleagues are working to develop an AI financial advisor that not only gives ordinary people access to sound financial advice, but acts with real fiduciary responsibility. Large language models can’t do this yet, he says, but the technology is developing fast. Other topics he touches on in this episode include the outsized influence of finance on drug development and global decarbonization and the equally outsized influence of teachers on their students–he names many who changed his own life, from his third-grade teacher in Queens to his professors at college and graduate school.        
 
 Relevant Resources:
 
-{{% resource_link "012517f9-3ccc-49a9-81b3-11c099c10e1d" "**MIT OpenCourseWare**" %}}
+[**MIT OpenCourseWare**](https://ocw.mit.edu/)
 
-{{% resource_link "152af460-9a82-44b3-9bc9-c96c244e0f6a" "**The OCW Educator portal**" %}}
+[**The OCW Educator portal**](https://ocw.mit.edu/educator/)
 
-{{% resource_link "8636116a-c7a5-469c-ba1f-2db1a0f1d543" "**Professor Lo’s faculty page**" %}}
+[**Professor Lo’s faculty page**](https://mitsloan.mit.edu/faculty/directory/andrew-w-lo)
 
-{{% resource_link "5992c857-6a77-46a6-8165-2c5d73f5ad0f" "***15.401 Finance Theory I*** **on MIT OpenCourseWare**" %}}
+[***15.401 Finance Theory I*** **on MIT OpenCourseWare**](https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/)
 
-{{% resource_link "b6861317-ce63-45f5-b522-3f3d356400c7" "***15.481x Adaptive Markets: Financial Market Dynamics and Human Behavior*** **on MIT Open Learning Library**" %}}
+[***15.481x Adaptive Markets: Financial Market Dynamics and Human Behavior*** **on MIT Open Learning Library**](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.481x+1T2021/about)
 
-{{% resource_link "81142ccc-e779-451e-a7d2-9880f7556aa8" "***15.482x Healthcare Finance*** **on MIT Open Learning Library**" %}}
+[***15.482x Healthcare Finance*** **on MIT Open Learning Library**](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.482x+1T2019/about)
 
-{{% resource_link "fe8c642d-78d1-44a6-b43d-2436b135d02c" "**Video version of this interview on YouTube**" %}}
+[**Video version of this interview on YouTube**](https://www.youtube.com/watch?v=8kFFg5jAoQc)
 
-{{% resource_link "c9d5a725-3a17-4bfa-9169-a6234e6bb3e4" "**Music in this episode by Blue Dot Sessions**" %}}
+[**Music in this episode by Blue Dot Sessions**](http://www.sessions.blue/)
 
  
 
@@ -60,31 +60,31 @@ If you have a suggestion for a new episode or have used OCW to change your life 
 
 Call us @ 617-715-2517
 
-{{% resource_link "29138978-363f-4cfc-8455-1aa471fdec23" "**On our site**" %}}
+[**On our site**](https://ocw.mit.edu/about/contactus/)
 
-{{% resource_link "a692bb43-9793-47b1-9c26-e303a0e60026" "**On Facebook**" %}}
+[**On Facebook**](https://www.facebook.com/MITOCW/)
 
-{{% resource_link "95c9fdd3-3727-4cbc-910b-c9241e7addcf" "**On X**" %}}
+[**On X**](https://twitter.com/MITOCW?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-{{% resource_link "3cd064a2-232d-4973-ac21-920bf8eb319b" "**On Instagram**" %}}
+[**On Instagram**](https://www.instagram.com/mitocw/?hl=en)
 
-{{% resource_link "3430b871-ff56-4557-b193-862e8da161ea" "**On LinkedIn**" %}}
+[**On LinkedIn**](https://www.linkedin.com/company/mit-opencourseware/)
 
 **Stay Current**
 
-{{% resource_link "7d81840c-64d8-4a2a-be36-2230832bf385" "**Subscribe**" %}} to the free monthly "MIT OpenCourseWare Update" e-newsletter. 
+[**Subscribe**](https://ocw.mit.edu/subscribe/index.htm?utm_source=header) to the free monthly "MIT OpenCourseWare Update" e-newsletter. 
 
 **Support OCW**
 
-If you like Chalk Radio and OpenCourseware, {{% resource_link "2c3944ee-5544-4b57-9a21-2b195004e0a6" "**donate**" %}} to help keep these programs going! 
+If you like Chalk Radio and OpenCourseware, [**donate**](https://giving.mit.edu/give/to/ocw/?utm_source=ocw&utm_medium=podcast&utm_campaign=donate) to help keep these programs going! 
 
 **Credits**
 
-{{% resource_link "b186910e-27f8-4370-834d-5aa6e5a97341" "**Sarah Hansen**" %}}, host and producer 
+[**Sarah Hansen**](https://www.linkedin.com/in/sarah-e-hansen/), host and producer 
 
-{{% resource_link "63187663-549c-4d18-872d-bcfc74420785" "**Brett Paci**" %}}, producer  
+[**Brett Paci**](https://twitter.com/Brett_Paci), producer  
 
-{{% resource_link "7dd8360e-7c0d-4f41-8bf4-0eda6085de4e" "**Dave Lishansky**" %}}, producer 
+[**Dave Lishansky**](https://twitter.com/DaveResonates), producer 
 
 Jackson Maher, producer
 
