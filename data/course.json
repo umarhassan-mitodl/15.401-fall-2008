@@ -27,7 +27,6 @@
     "website": "15-401-finance-theory-i-fall-2008"
   },
   "course_title": "Finance Theory I",
-  "hide_download": true,
   "course_description": "This course introduces the core theory of modern financial economics and financial management, with a focus on capital markets and investments. Topics include functions of capital markets and financial intermediaries, asset valuation, fixed-income securities, common stocks, capital budgeting, diversification and portfolio selection, equilibrium pricing of risky assets, the theory of efficient markets, and an introduction to derivatives and options.\n",
   "department_numbers": [
     "15"
@@ -38,7 +37,6 @@
     "content": "da841a75-870c-7bc8-a519-7c11c21aa825",
     "website": "15-401-finance-theory-i-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",

@@ -2,8 +2,6 @@
 content_type: page
 description: This page includes lecture slides and three video lectures on pricing
   options, using a generalized binomial model, and interpreting payoff diagrams.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

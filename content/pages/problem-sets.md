@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains problem sets and solutions (added in December 2019).
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
